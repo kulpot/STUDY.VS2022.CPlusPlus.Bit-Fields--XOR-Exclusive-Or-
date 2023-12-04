@@ -336,6 +336,14 @@ doit proc			; proc -- procedure
 	; -------------------------
 	;     0 1 0 0 1 0 1 0 0 1 1
 
+	; ------------------------------------ Bit Fields- XOR (Exclusive Or) -----------------------------------
+	; ref link:https://www.youtube.com/watch?v=QCoAPJhHY5k&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=22
+
+	;
+
+
+
+
 
 
 
