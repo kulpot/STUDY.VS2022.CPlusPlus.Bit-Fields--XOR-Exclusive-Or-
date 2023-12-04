@@ -339,8 +339,15 @@ doit proc			; proc -- procedure
 	; ------------------------------------ Bit Fields- XOR (Exclusive Or) -----------------------------------
 	; ref link:https://www.youtube.com/watch?v=QCoAPJhHY5k&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=22
 
-	;
+	; XOR(Exclusive Or) one or the other but not both
 
+	; 0 false if both value are the same value
+	; 1 true if both value are not the same
+
+	;     0 1 0 1
+	; XOR 0 1 1 0
+	;  -----------
+	;     0 0 1 1
 
 
 
